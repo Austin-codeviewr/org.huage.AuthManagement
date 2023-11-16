@@ -1,0 +1,14 @@
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.deps.json
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.runtimeconfig.json
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.csproj.AssemblyReference.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.AssemblyInfoInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.AssemblyInfo.cs
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.csproj.CoreCompileInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\refint\org.huage.AuthManagement.DataBase.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\org.huage.AuthManagement.DataBase.genruntimeconfig.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.DataBase\obj\Debug\net7.0\ref\org.huage.AuthManagement.DataBase.dll

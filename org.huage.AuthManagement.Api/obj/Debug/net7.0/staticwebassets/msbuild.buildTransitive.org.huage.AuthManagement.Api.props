@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\org.huage.AuthManagement.Api.props" />
+</Project>

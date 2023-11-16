@@ -1,0 +1,17 @@
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.BizManager.deps.json
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.BizManager.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.BizManager.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.Entity.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.DataBase.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\bin\Debug\net7.0\org.huage.AuthManagement.Entity.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.csproj.AssemblyReference.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.AssemblyInfoInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.AssemblyInfo.cs
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.csproj.CoreCompileInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.csproj.CopyComplete
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\refint\org.huage.AuthManagement.BizManager.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\org.huage.AuthManagement.BizManager.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.BizManager\obj\Debug\net7.0\ref\org.huage.AuthManagement.BizManager.dll

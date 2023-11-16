@@ -1,0 +1,11 @@
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\bin\Debug\net7.0\org.huage.AuthManagement.Entity.deps.json
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\bin\Debug\net7.0\org.huage.AuthManagement.Entity.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\bin\Debug\net7.0\org.huage.AuthManagement.Entity.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.AssemblyInfoInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.AssemblyInfo.cs
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.csproj.CoreCompileInputs.cache
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\refint\org.huage.AuthManagement.Entity.dll
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\org.huage.AuthManagement.Entity.pdb
+E:\code\C#\project\AuthManager\org.huage.AuthManagement.Entity\obj\Debug\net7.0\ref\org.huage.AuthManagement.Entity.dll

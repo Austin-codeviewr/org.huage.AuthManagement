@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZsBPKJ3OK89+XRzu4+0XKkmpq41nvubgzdnps+qeIYs=",
+  "Source": "org.huage.AuthManagement.Api",
+  "BasePath": "_content/org.huage.AuthManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
